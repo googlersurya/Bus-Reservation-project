@@ -178,7 +178,7 @@ while(1)
 {
     //system("cls");
     cout<<"\n\n";
-    cout<<"\t\t***SIMPLE BUS RESERVATION SYSTEM***";
+    cout<<"\t\t----Book Your Bus----";
   cout<<"\n\n";
   cout<<"\t\t\t1.Add New Bus Number\n\t\t\t"
   <<"2.Reservation\n\t\t\t"
